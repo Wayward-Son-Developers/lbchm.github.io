@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Who We Are"
-    url: /about.html
-  - title: "What We Believe"
-    url: /beliefs.html
-  - title: "What We Study"
-    url: /studies.html
-  - title: "Who We Support"
-    url: /support.html
-  - title: "Hear Our Sermons"
-    url: /sermons.html
+  - title: "We Are"
+    url: /about/
+  - title: "We Believe"
+    url: /beliefs/
+  - title: "We Study"
+    url: /studies/
+  - title: "We Support"
+    url: /support/
+  - title: "Our Sermons"
+    url: /sermons/
