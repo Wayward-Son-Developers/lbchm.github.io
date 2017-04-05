@@ -8,7 +8,7 @@ permalink: /studies/
 
 ## Current Studies
 
-The main Sunday School class is working studying *Genesis* in a series titled &ldquo;[Genesis - God's Plan Begins][1]&rdquo;.
+The main Sunday School class is studying *Genesis* in a series titled &ldquo;[Genesis - God's Plan Begins][1]&rdquo;.
 
 Sunday mornings we are working through the book of *Romans* in a series titled &ldquo;[A Journey to Rome][2]&rdquo;.
 
