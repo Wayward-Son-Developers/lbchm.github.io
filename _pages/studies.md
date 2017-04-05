@@ -8,7 +8,7 @@ permalink: /studies/
 
 ## Current Studies
 
-The main Sunday School class is working studying *Genesis* in a series titled &ldquo;[Genesis - God's Plan Begins][1]&rdquo.
+The main Sunday School class is working studying *Genesis* in a series titled &ldquo;[Genesis - God's Plan Begins][1]&rdquo;.
 
 Sunday mornings we are working through the book of *Romans* in a series titled &ldquo;[A Journey to Rome][2]&rdquo;.
 
@@ -30,7 +30,7 @@ Our Sunday evening services are casual. We start off by sharing prayer requests 
 On Wednesday nights we are very casual, with most people wearing their work clothes. It is very similar in style to our Sunday PM Bible study. We have more discussion questions during this study and we are usually finished by 8:00.
 
 
-[1]http://www.sermonaudio.com/search.asp?sortby=added&sourceonly=true&currSection=sermonssource&keyword=lbcofhopemills&subsetcat=series&subsetitem=Genesis%2DGod%27s+Plan+Begins
-[2]http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=A+Journey+to+Rome&keyworddesc=A+Journey+to+Rome
-[3]http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=Exodus+%2D+The+Great+Escape&keyworddesc=Exodus+%2D+The+Great+Escape
-[4]http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=True+Story+of+Old+Testament&keyworddesc=True+Story+of+Old+Testament
+[1]: http://www.sermonaudio.com/search.asp?sortby=added&sourceonly=true&currSection=sermonssource&keyword=lbcofhopemills&subsetcat=series&subsetitem=Genesis%2DGod%27s+Plan+Begins
+[2]: http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=A+Journey+to+Rome&keyworddesc=A+Journey+to+Rome
+[3]: http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=Exodus+%2D+The+Great+Escape&keyworddesc=Exodus+%2D+The+Great+Escape
+[4]: http://www.sermonaudio.com/search.asp?seriesOnly=true&currSection=sermonstopic&sourceid=lbcofhopemills&keyword=True+Story+of+Old+Testament&keyworddesc=True+Story+of+Old+Testament
