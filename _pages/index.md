@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/building_wide.png
-  overlay_filter: 0.5
+  overlay_filter: 0.2
   excerpt: "As unto a light that shineth in a dark place. &ndash; 2 Peter 1:19"
 permalink: /
 ---
