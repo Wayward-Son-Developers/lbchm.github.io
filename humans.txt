@@ -1,0 +1,18 @@
+# humanstxt.org/
+> The humans responsible & technology colophon
+
+# TEAM
+ - Mark Bussell Jr. -- Programmer, A/V
+
+# TECHNOLOGY COLOPHON
+
+## FRAMEWORKS/COMPONENTS
+ - [Jekyll](http://jekyllrb.com/) - Static Site Generator
+ - [Github Pages](https://pages.github.com/) - Hosting
+ - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) - Theme
+
+## DEV SOFTWARE
+ - Visual Studio Code
+ - Git/SourceTree
+ - Paint.NET
+ - Inkscape
