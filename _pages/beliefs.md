@@ -7,8 +7,6 @@ header:
 permalink: /beliefs/
 ---
 
-<style>li li {list-style-type:lower-alpha;}</style>
-
 # What We Believe
 
 ## Statement of Faith

@@ -65,6 +65,12 @@ $susy: (
 @import "syntax";
 @import "forms";
 
+/*
+   Fix for Kramdown
+   ========================================================================== */
+li li {
+  list-style-type: lower-alpha;
+}
 
 /*
    Layout specific
