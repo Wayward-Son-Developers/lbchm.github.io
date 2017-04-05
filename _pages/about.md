@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/building_wide.png
