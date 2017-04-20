@@ -17,7 +17,7 @@ Sunday mornings we are working through the book of *Romans* in a series titled &
 
 Sunday evenings we are working through the book of *Exodus* in a series titled &ldquo;[Exodus - The Great Escape][3]&rdquo;.
 
-Wednesday evenings we are working through a study titled &ldquo;[I Am][5]. Our last study, a survey of the Old Testament titled &ldquo;[True Stories of the Old Testament][4]&rdquo;, is also available on Sermon Audio.
+Wednesday evenings we are working through a study titled &ldquo;[I Am][5]&rdquo;. Our last study, a survey of the Old Testament titled &ldquo;[True Stories of the Old Testament][4]&rdquo;, is also available on Sermon Audio.
 
 ## About Our Studies
 
