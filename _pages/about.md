@@ -25,11 +25,11 @@ We want every member to have the attitude of &ldquo;I am saved to serve.&rdquo;
 
 Dwayne Smith has served as the Senior Pastor of Lighthouse Baptist Church since Dec. of 2012. Previously, he had served on the Pastoral staff at Berean Baptist Church in Fayetteville, NC, from 2008 &ndash; 2012. While at Berean, he served as the Upward sports coordinator, teaching and preaching the mid-week services, serving as the adult Sunday School classes coordinator, Men’s ministry coordinator, and teacher of the Conquerors adult Sunday School class.
 
-Dwayne holds a BA in Ministry from Bethany Divinity College and Seminary, and is currently pursuing a M.Div. from Andersonville Theological Seminary.
+Dwayne holds a BA in Ministry from Bethany Divinity College and Seminary, and a M.Div. from Andersonville Theological Seminary.
 
 Having grown up at Berean Baptist Church and graduated from Berean Baptist Academy in 1982, he thought he was a Christian. At the age of seven, he had prayed the sinner’s prayer but had experienced no fruit of salvation. At the age of 33, Dwayne was saved out of a life of rebellion towards God and called into ministry shortly thereafter. At that time, he was working as an EMT-Paramedic for the Wake County Department of EMS in Raleigh, NC. Dwayne has taught fourth grade, junior and senior high history, Bible, science, and P.E. He has served as an Athletic Director and coached basketball, baseball, and soccer and the cross country team at Berean Baptist Academy. He has served at Faith Baptist Schools in Canoga Park, CA; Liberty Christian Academy in Fayetteville, NC; and pastored Fellowship Baptist Church in Hope Mills, NC.
 
-He is married to Shawn, his wife of 25 years, and they have two children: Bradley who is retired from serving in US Army for five years and currently enrolled at the University of Wisconsin in Milwaukee, and Morgan whom serves at Lighthouse Baptist in the children's and music ministry and enrolled at Sandhills Community College.
+He is married to Shawn, his wife of 25 years, and they have two children: Bradley who is retired from serving in US Army for five years and currently enrolled at Concordia University in Milwaukee, and Morgan whom serves at Lighthouse Baptist in the children's and music ministry and enrolled at Sandhills Community College.
 
 ## Our Elders
 
