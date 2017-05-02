@@ -166,6 +166,7 @@ GEM
     minitest (5.10.1)
     multipart-post (2.0.0)
     net-dns (0.8.0)
+    net_http_ssl_fix (0.0.7)
     nokogiri (1.7.1-x64-mingw32)
       mini_portile2 (~> 2.1.0)
     octokit (4.7.0)
@@ -189,6 +190,8 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2017.2)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.1.3)
 
 PLATFORMS
@@ -201,6 +204,8 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
+  net_http_ssl_fix
+  tzinfo-data
 
 BUNDLED WITH
    1.14.6
